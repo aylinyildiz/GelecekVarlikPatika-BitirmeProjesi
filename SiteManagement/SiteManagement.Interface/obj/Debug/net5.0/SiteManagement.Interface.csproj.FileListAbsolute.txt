@@ -1,0 +1,12 @@
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\bin\Debug\net5.0\SiteManagement.Interface.deps.json
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\bin\Debug\net5.0\SiteManagement.Interface.dll
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\bin\Debug\net5.0\ref\SiteManagement.Interface.dll
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\bin\Debug\net5.0\SiteManagement.Interface.pdb
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.csproj.AssemblyReference.cache
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.AssemblyInfoInputs.cache
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.AssemblyInfo.cs
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.csproj.CoreCompileInputs.cache
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.dll
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\ref\SiteManagement.Interface.dll
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.pdb
