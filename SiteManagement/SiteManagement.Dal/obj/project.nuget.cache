@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cr+5SFAsFucXNRq6mxQrbZ11PX8TG+FmbJL3zCBFi5Bu39Ue7ggwA5viS/ejXlFBsQyBBvf447/ZvxDu8hm7Tg==",
+  "dgSpecHash": "xVEa25ULIyGmChT92LeNWkGpjCzYSCEu1vi609ik26X1rY+0SMorjj3e0hua8beIhvrI8WwvPrqN5DwnA8XWMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aylin\\OneDrive\\Masaüstü\\GelecekVarlikPatika-BitirmeProjesi\\SiteManagement\\SiteManagement.Dal\\SiteManagement.Dal.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\aylin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\aylin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aylin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\aylin\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

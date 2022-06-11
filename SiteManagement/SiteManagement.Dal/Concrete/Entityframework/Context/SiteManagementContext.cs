@@ -26,12 +26,7 @@ namespace SiteManagement.Dal.Concrete.Entityframework.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //if (!optionsBuilder.IsConfigured)
-            //{
             optionsBuilder.UseSqlServer(configuration.GetConnectionString("SqlServer"));
-
-            //optionsBuilder.UseSqlServer("Server=DESKTOP-GJCH1CM;Database=BusinessManagementSystem;Trusted_Connection=True;");
-            //}
         }
     }
 }

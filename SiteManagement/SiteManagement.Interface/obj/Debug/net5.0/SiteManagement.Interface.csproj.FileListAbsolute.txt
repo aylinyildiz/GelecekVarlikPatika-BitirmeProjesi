@@ -10,3 +10,6 @@ C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManage
 C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.dll
 C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\ref\SiteManagement.Interface.dll
 C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.pdb
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\bin\Debug\net5.0\SiteManagement.Entity.dll
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\bin\Debug\net5.0\SiteManagement.Entity.pdb
+C:\Users\aylin\OneDrive\Masaüstü\GelecekVarlikPatika-BitirmeProjesi\SiteManagement\SiteManagement.Interface\obj\Debug\net5.0\SiteManagement.Interface.csproj.CopyComplete

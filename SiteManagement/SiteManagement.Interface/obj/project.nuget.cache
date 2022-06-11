@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cD9KSPTyo87MdOhYHnIGVmIRhNgPn7q2kNAIqVaQ0o9b0wFGjG6p5FGA8JCDY6vC54ty6uruwRxGCDpNmKwtdw==",
+  "dgSpecHash": "yNXXTu6SsHw0DqfYVqFVIrSzygu2GSuGLL0IJsTeQGvrtKg562190O+4nMhUeM2DwVIS35xTcynKpUN59Ou4Rw==",
   "success": true,
   "projectFilePath": "C:\\Users\\aylin\\OneDrive\\Masaüstü\\GelecekVarlikPatika-BitirmeProjesi\\SiteManagement\\SiteManagement.Interface\\SiteManagement.Interface.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aylin\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\aylin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
