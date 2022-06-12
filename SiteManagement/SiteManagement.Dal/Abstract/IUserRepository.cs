@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SiteManagement.Entity.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,6 @@ namespace SiteManagement.Dal.Abstract
 {
     public interface IUserRepository
     {
+        User Login(User login);
     }
 }

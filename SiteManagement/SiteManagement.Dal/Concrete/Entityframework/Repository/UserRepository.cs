@@ -15,5 +15,12 @@ namespace SiteManagement.Dal.Concrete.Entityframework.Repository
         {
 
         }
+
+        public User Login(User login)
+        {
+            var user = dbset.Where(x => x.Email == login.Email && x.Password == login.Password).SingleOrDefault();
+
+            return user;
+        }
     }
 }

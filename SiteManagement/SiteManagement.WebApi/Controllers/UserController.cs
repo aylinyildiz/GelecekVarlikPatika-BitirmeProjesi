@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using SiteManagement.Entity.Base;
 using SiteManagement.Entity.Dto;
 using SiteManagement.Entity.IBase;
 using SiteManagement.Entity.Models;
@@ -20,7 +22,27 @@ namespace SiteManagement.WebApi.Controllers
         {
             this.userService = userService;
         }
-        
-       
+
+        [HttpPost("Login")]
+        public IResponse<DtoUserToken> Login(DtoLogin login)
+        {
+
+            try
+            {
+                return userService.Login(login);
+            }
+            catch (Exception ex)
+            {
+                return new Response<DtoUserToken>
+                {
+                    Message = "Error:" + ex.Message,
+                    StatusCode = StatusCodes.Status500InternalServerError,
+                    Data = null
+                };
+            }
+
+        }
+
+
     }
 }

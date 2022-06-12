@@ -20,6 +20,8 @@ namespace SiteManagement.Entity.Mapper
             CreateMap<Message, DtoMessage>().ReverseMap();
             CreateMap<Role, DtoRole>().ReverseMap();
             CreateMap<User, DtoUser>().ReverseMap();
+            CreateMap<User, DtoLoginUser>();
+            CreateMap<DtoLogin, User>();
         }
     }
 }
